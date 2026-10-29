@@ -1,0 +1,377 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vandebilt Catholic Baseball//2027 Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vandebilt Catholic Baseball 2027
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:vc-baseball-2027-01@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270128T183000
+DTEND;TZID=America/Chicago:20270128T210000
+SUMMARY:Vandebilt Catholic @ Archbishop Rummel
+LOCATION:Mike Miley - NOLA
+DESCRIPTION:Away game - first pitch 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-02@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270203T183000
+DTEND;TZID=America/Chicago:20270203T210000
+SUMMARY:Jesuit vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-03@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270213T130000
+DTEND;TZID=America/Chicago:20270213T153000
+SUMMARY:St. Charles vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-04@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270216T180000
+DTEND;TZID=America/Chicago:20270216T203000
+SUMMARY:Houma Christian vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-05@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270218T170000
+DTEND;TZID=America/Chicago:20270218T193000
+SUMMARY:Brother Martin vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-06@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270222T180000
+DTEND;TZID=America/Chicago:20270222T203000
+SUMMARY:Vandebilt Catholic @ Vermilion Catholic
+LOCATION:Vermilion Catholic
+DESCRIPTION:Away game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-07@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270225T153000
+DTEND;TZID=America/Chicago:20270225T180000
+SUMMARY:Vandebilt Catholic @ E.D. White
+LOCATION:E.D. White
+DESCRIPTION:Away game - first pitch 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-08@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270226T180000
+DTEND;TZID=America/Chicago:20270226T203000
+SUMMARY:E.D. White vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-09@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270227T143000
+DTEND;TZID=America/Chicago:20270227T170000
+SUMMARY:Vandebilt Catholic @ E.D. White
+LOCATION:E.D. White
+DESCRIPTION:Away game - first pitch 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-10@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270302T153000
+DTEND;TZID=America/Chicago:20270302T180000
+SUMMARY:Vandebilt Catholic @ Hahnville
+LOCATION:Hahnville
+DESCRIPTION:Away game - first pitch 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-11@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270304T180000
+DTEND;TZID=America/Chicago:20270304T203000
+SUMMARY:Terrebonne vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-12@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270305T180000
+DTEND;TZID=America/Chicago:20270305T203000
+SUMMARY:Terrebonne vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-13@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270306T130000
+DTEND;TZID=America/Chicago:20270306T153000
+SUMMARY:Terrebonne vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-14@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270309T180000
+DTEND;TZID=America/Chicago:20270309T203000
+SUMMARY:Central Lafourche vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-15@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270312T180000
+DTEND;TZID=America/Chicago:20270312T203000
+SUMMARY:Vandebilt Catholic @ Barbe
+LOCATION:Barbe
+DESCRIPTION:Away game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-16@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270313T120000
+DTEND;TZID=America/Chicago:20270313T143000
+SUMMARY:Vandebilt Catholic @ Barbe (Game 1)
+LOCATION:Barbe
+DESCRIPTION:Away game - first pitch 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-17@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270313T150000
+DTEND;TZID=America/Chicago:20270313T173000
+SUMMARY:Vandebilt Catholic @ Barbe (Game 2)
+LOCATION:Barbe
+DESCRIPTION:Away game - first pitch 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-18@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270316T180000
+DTEND;TZID=America/Chicago:20270316T203000
+SUMMARY:Vandebilt Catholic @ Southside
+LOCATION:Southside
+DESCRIPTION:Away game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-19@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270318T183000
+DTEND;TZID=America/Chicago:20270318T210000
+SUMMARY:Erath vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-20@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270319T183000
+DTEND;TZID=America/Chicago:20270319T210000
+SUMMARY:Vandebilt Catholic @ Parkview Baptist
+LOCATION:Parkview Baptist
+DESCRIPTION:Away game - first pitch 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-21@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270320T183000
+DTEND;TZID=America/Chicago:20270320T210000
+SUMMARY:Vandebilt Catholic @ Ponchatoula
+LOCATION:Lutcher
+DESCRIPTION:Away game - first pitch 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-22@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270323T180000
+DTEND;TZID=America/Chicago:20270323T203000
+SUMMARY:Vandebilt Catholic @ Patterson
+LOCATION:Patterson
+DESCRIPTION:Away game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-23@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270324T180000
+DTEND;TZID=America/Chicago:20270324T203000
+SUMMARY:Catholic - New Iberia vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-24@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270330T180000
+DTEND;TZID=America/Chicago:20270330T203000
+SUMMARY:Berwick vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-25@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270401T180000
+DTEND;TZID=America/Chicago:20270401T203000
+SUMMARY:South Terrebonne vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-26@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270402T183000
+DTEND;TZID=America/Chicago:20270402T210000
+SUMMARY:Vandebilt Catholic @ St. Ed's
+LOCATION:St. Ed's
+DESCRIPTION:Away game - first pitch 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-27@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270403T133000
+DTEND;TZID=America/Chicago:20270403T160000
+SUMMARY:Vandebilt Catholic @ Eunice
+LOCATION:Eunice
+DESCRIPTION:Away game - first pitch 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-28@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270406T180000
+DTEND;TZID=America/Chicago:20270406T203000
+SUMMARY:Lutcher vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-29@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270407T180000
+DTEND;TZID=America/Chicago:20270407T203000
+SUMMARY:H.L. Bourgeois vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-30@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270409T180000
+DTEND;TZID=America/Chicago:20270409T203000
+SUMMARY:Covenant Christian vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-31@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270410T140000
+DTEND;TZID=America/Chicago:20270410T163000
+SUMMARY:Vandebilt Catholic @ Pope John Paul II
+LOCATION:Pope John Paul II
+DESCRIPTION:Away game - first pitch 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-32@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270413T180000
+DTEND;TZID=America/Chicago:20270413T203000
+SUMMARY:Vandebilt Catholic @ St. James
+LOCATION:St. James
+DESCRIPTION:Away game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-33@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270415T180000
+DTEND;TZID=America/Chicago:20270415T203000
+SUMMARY:Teurlings Catholic vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-34@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270416T160000
+DTEND;TZID=America/Chicago:20270416T183000
+SUMMARY:Vandebilt Catholic @ Teurlings Catholic
+LOCATION:Teurlings Catholic
+DESCRIPTION:Away game - first pitch 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-35@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270417T130000
+DTEND;TZID=America/Chicago:20270417T153000
+SUMMARY:Vandebilt Catholic @ Assumption
+LOCATION:Assumption
+DESCRIPTION:Away game - first pitch 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-36@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270420T180000
+DTEND;TZID=America/Chicago:20270420T203000
+SUMMARY:St. Charles vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-37@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270422T170000
+DTEND;TZID=America/Chicago:20270422T193000
+SUMMARY:Vandebilt Catholic @ Covington
+LOCATION:Covington
+DESCRIPTION:Away game - first pitch 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-38@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270424T130000
+DTEND;TZID=America/Chicago:20270424T153000
+SUMMARY:Sam Houston vs. Vandebilt Catholic
+LOCATION:Vandebilt Catholic
+DESCRIPTION:Home game - first pitch 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:vc-baseball-2027-39@vandebiltcatholic
+DTSTAMP:20261028T200000Z
+DTSTART;TZID=America/Chicago:20270426T170000
+DTEND;TZID=America/Chicago:20270426T193000
+SUMMARY:Vandebilt Catholic @ Northshore
+LOCATION:Northshore
+DESCRIPTION:Away game - first pitch 5:00 PM
+END:VEVENT
